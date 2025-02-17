@@ -1,17 +1,20 @@
-# Hi 👋, I'm Yash Patil
+![Header](https://github.com/yashpatil4904/yashpatil4904/blob/main/YASH%20PATIL.jpg)
 
+# Hi 👋, I'm Yash Patil
+<img alt="Coder GIF" height=250 width=350 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="250" />
+<br/>
 ### Crafting the Future, One Line of Code at a Time 🚀
 
 - 🔥 I’m currently working on **Full Stack Development projects**
 - 🤝 I’m looking to collaborate on **Real-world Problems and Web Development Projects**
 - 👨‍💻 I’m looking for help with **Open Source Contributions**
-- 🗉 I’m interested in **Data Science**
+- 🗉 I’m interested in **Data Science** and  **Web Development**
 - 📝 Ask me about **JavaScript, Database, Full Stack Development**
 - 📩 How to reach me: **yashpatil9238@gmail.com**
+###
 
-![Header](https://www.vecteezy.com/system/resources/previews/002/412/260/original/cover-and-banner-of-working-desk-with-gadget-top-view-of-table-working-and-free-space-for-text-with-computer-laptop-notebook-coffee-cup-phone-and-paper-free-vector.jpg)
+🤝 Connect with me:
 
-### 🤝 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-patil-b698a6290)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashpatil9238@gmail.com)
 
@@ -41,3 +44,5 @@
 
 ### 📊 GitHub Stats:
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashpatil&show_icons=true&theme=dark)
+
+<!-- Adding the GIF to the right -->
