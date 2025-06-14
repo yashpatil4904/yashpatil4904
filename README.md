@@ -3,7 +3,7 @@
 # Hi 👋, I'm Yash Patil
 <img alt="Coder GIF" height=250 width=350 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="250" />
 <br/>
-### Crafting the Future, One Line of Code at a Time 🚀
+Crafting the Future, One Line of Code at a Time 🚀
 
 - 🔥 I’m currently working on **Full Stack Development projects**
 - 🤝 I’m looking to collaborate on **Real-world Problems and Web Development Projects**
